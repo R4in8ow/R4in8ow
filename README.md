@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif?v=3" align="center" width="100%" alt="AI Vibe Coding & Content Creator Setup" />
+  <img src="./banner.gif?v=4" align="center" width="100%" alt="AI Vibe Coding & Content Creator Setup" />
 </div>
 
 # Hi 👋, I'm Pyae Sone Myo (R4in8ow)
