@@ -2,7 +2,7 @@
   <img src="./banner.gif?v=6" align="center" width="100%" alt="AI Vibe Coding & Content Creator Setup" />
 </div>
 
-# Hi 👋, 
+# Hi 😎, 
 # I'm Pyae Sone Myo (R4in8ow)
 
 ### Content Creator · IT Support Specialist · System Administrator
