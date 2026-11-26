@@ -2,9 +2,10 @@
   <img src="./banner.gif?v=6" align="center" width="100%" alt="AI Vibe Coding & Content Creator Setup" />
 </div>
 
-# Hi 👋, I'm Pyae Sone Myo (R4in8ow)
+# Hi 👋, 
+# I'm Pyae Sone Myo (R4in8ow)
 
-### Cloud Engineer · IT Support Specialist · Content Creator
+### Content Creator · IT Support Specialist · System Administrator
 
 > *"Behind every great idea, a solid system."* — Connecting cloud infrastructure, secure networks, and creative technology with **10+ years** of hands-on experience.
 
@@ -14,9 +15,9 @@
 
 # 💫 About Me
 
-- 🔭 Currently working on **Cloud Infrastructure, AI Utilities & Creative Workflows** at [R4in8ow Space](https://r4in8ow.online/)
+- 🔭 Currently working on **System Administration, AI Utilities & Creative Workflows** at [R4in8ow Space](https://r4in8ow.online/)
 - 🛠️ Building practical web & AI tools including **Transcript Tools** and **AI Playground**
-- 🌱 Deepening expertise in **Cloud Architecture, DevOps & AI-Assisted Workflows**
+- 🌱 Deepening expertise in **System Administration, DevOps & AI-Assisted Workflows**
 - 🏆 Certified in **AWS Cloud Practitioner · MikroTik (MTCNA) · Linux Foundation (LFCS)**
 - 📍 Based in **Chiang Mai, Thailand** — open to on-site, hybrid, and remote opportunities
 - 📫 How to reach me: **rainbowshotdroid@gmail.com**
